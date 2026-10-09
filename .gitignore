@@ -1,0 +1,13 @@
+.build/
+build/
+.DS_Store
+.swiftpm/
+.local-signing/
+
+# Local project notes and tool configuration
+AGENTS.md
+MEMORY.md
+docs/
+.agents/
+.codex/
+.aws/
